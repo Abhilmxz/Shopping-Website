@@ -58,7 +58,7 @@ const DropdownLinks = [
 
 
 
-const Navbar = () => {
+const Navbar = ({handleOrderPopup}) => {
   return (
     <div className='shadow-md 
     bg-white 
@@ -118,7 +118,7 @@ const Navbar = () => {
 
        {/* ORDER BUTTON */}
        
-        <button onClick={()=> alert("Ordering Not Availabe Yet")}
+        <button onClick={() => handleOrderPopup()}
         className='bg-gradient-to-r 
         from-primary 
         to-secondary 
@@ -150,7 +150,7 @@ const Navbar = () => {
 
     {/* lower Navbar */}
 
-    <div className='flex justify-center'>
+    <div data-aos="zoom-in" className='flex justify-center'>
       <ul className='sm:flex hidden items-center gap-4'>
         {
           Menu.map((data)=>(
