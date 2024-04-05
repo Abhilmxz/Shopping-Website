@@ -23,8 +23,9 @@ const Banner = () => {
               data-aos="fade-up"
               className="text-sm text-gray-500 tracking-wide leading-5"
             >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-              reiciendis inventore iste ratione ex alias quis magni at optio
+              𝐿𝑜𝓇𝑒𝓂 𝒾𝓅𝓈𝓊𝓂, 𝒹𝑜𝓁𝑜𝓇 𝓈𝒾𝓉 𝒶𝓂𝑒𝓉 𝒸𝑜𝓃𝓈𝑒𝒸𝓉𝑒𝓉𝓊𝓇 𝒶𝒹𝒾𝓅𝒾𝓈𝒾𝒸𝒾𝓃𝑔 𝑒𝓁𝒾𝓉. 𝐸𝒶𝓆𝓊𝑒
+              𝓇𝑒𝒾𝒸𝒾𝑒𝓃𝒹𝒾𝓈 𝒾𝓃𝓋𝑒𝓃𝓉𝑜𝓇𝑒 𝒾𝓈𝓉𝑒 𝓇𝒶𝓉𝒾𝑜𝓃𝑒 𝑒𝓍 𝒶𝓁𝒾𝒶𝓈 𝓆𝓊𝒾𝓈 𝓂𝒶𝑔𝓃𝒾 𝒶𝓉 𝑜𝓅𝓉𝒾𝑜
+
             </p>
             <div className="flex flex-col gap-4">
               <div data-aos="fade-up" className="flex items-center gap-4">
