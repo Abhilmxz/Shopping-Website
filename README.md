@@ -24,18 +24,6 @@
 
 > ✨ Explore a clean, responsive e-commerce frontend in action.
 
----
-
-## 📸 Preview
-
-<p align="center">
-  <!-- Replace below image links with real screenshots -->
-  <img src="https://via.placeholder.com/800x450?text=Desktop+Preview" width="80%" alt="Desktop Preview">
-  <br><br>
-  <img src="https://via.placeholder.com/300x600?text=Mobile+Preview" width="40%" alt="Mobile Preview">
-</p>
-
----
 
 ## ✨ Features
 
